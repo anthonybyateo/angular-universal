@@ -1,0 +1,11 @@
+dist-server
+node_modules
+dist
+server.js
+package-lock.json
+yarn.lock
+prerender.js
+prerender.js
+.DS_Store
+static/back/index.html
+static/index.html
